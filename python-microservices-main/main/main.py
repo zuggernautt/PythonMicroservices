@@ -13,7 +13,6 @@ CORS(app)
 
 db = SQLAlchemy(app)
 
-
 @dataclass
 class Product(db.Model):
     id: int
