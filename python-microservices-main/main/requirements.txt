@@ -5,6 +5,6 @@ Flask-Migrate
 Flask-Script
 Flask-Cors
 requests
-mysqlclient==2.0.1
+mysqlclient
 
 pika
